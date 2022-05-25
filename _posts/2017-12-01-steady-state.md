@@ -2,13 +2,7 @@
 layout: post
 title:  "The Importance of the Steady State"
 date:   2017-12-01
-categories: article
-tags: 
-image: /assets/article_images/2017-12-01-steady-state/sse.jpg
-thumbnail: /assets/article_images/2017-12-01-steady-state/ssethumb.jpg
-acknowledgement: 
-  name: "Politics/Letters"
-  link: http://politicsslashletters.live/reviews/importance-steady-state/
+image: sse.jpg
 ---
 
 The history of environmentalist thought is structured, as often as not, by too
