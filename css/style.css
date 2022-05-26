@@ -693,7 +693,7 @@ body {
   color: white; }
 
 img, video, audio, iframe, object {
-  max-width: 100%; }
+  width: 100%; } /*formerly max-width */
 
 .container {
   max-width: 610px;
