@@ -1161,10 +1161,7 @@ CONTACT PAGE STYLING
     margin-right: 0; } }
 /* Mena's additions */
 
-  .home-image {
-    width: 100%;
-  }
+.home-image img {
+  width: 100%;
+}
 
-  .home-image img {
-    width: 100%;
-  }
