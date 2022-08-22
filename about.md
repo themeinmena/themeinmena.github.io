@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Philomena Polefrone - Bio
-image: boomer.jpeg
+image: profile-pic.jpeg
 ---
 
 <div class="post">
