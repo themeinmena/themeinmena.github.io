@@ -2,7 +2,7 @@
 layout: post
 title:  "Rewriting Finance's Fiction"
 date:   2018-05-28
-image: /assets/article_images/2018-05-28-rewriting-finances-fiction/article.jpeg
+image: article.jpeg
 ---
 
 On April 23rd, 2013, the Associated Press Twitter account announced that two explosions had damaged the White House, injuring then-president Barack Obama. At that point, nobody knew how badly, but the reports were enough to cause panic.
